@@ -1,2 +1,1 @@
-# my-homepage
-excercise
+#Simple Restaurant Front Page
